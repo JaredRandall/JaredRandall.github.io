@@ -15,4 +15,4 @@ My name is Jared and I am a PhD Candidate at the University of Alberta.
 
 ## Contact
 email: jarandal@ualberta.ca
-linkedin: https://www.linkedin.com/in/jaredarandall/
+linkedin: (https://www.linkedin.com/in/jaredarandall/)
