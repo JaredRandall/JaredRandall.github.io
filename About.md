@@ -1,5 +1,3 @@
-yaml
-
 ---
 layout: page
 title: About me
