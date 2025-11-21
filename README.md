@@ -13,4 +13,4 @@ I am currently pursuing my Registered Professional Forester designation with the
 Ecology has become increasingly quantitative, and the field of wildfire science is inherently spatial. Sophisticated understanding of the integration of ecology and spatial data is inherently necessary for appropriate hypothesis testing. 
 
 markdown 
-[About Me](./About)
+[About Me](About)
