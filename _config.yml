@@ -1,1 +1,17 @@
 theme: jekyll-theme-cayman
+lang: en
+
+timezone: Canada/Edmonton
+
+title: Jared Randall, PhD Candidate 
+
+tagline: Blog 
+
+Descsription: Description 
+
+social: 
+ name: Jared Randall
+ links:
+ - https://www.linkedin.com/in/jaredarandall/
+
+ 
