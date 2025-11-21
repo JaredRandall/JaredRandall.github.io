@@ -1,7 +1,20 @@
-layout: page
-title: "About Me"
-permalink: /AboutMe
+markdown
 
-## Jared Randall
-I am a PhD Candidate at the University of Alberta, researching the impacts of forest management on stand structure and wildland fire behaviour.
- 
+---
+layout: page
+title: About me
+---
+
+
+My name is Jared and I am a PhD Candidate at the University of Alberta. 
+
+
+## Skills 
+- Spatial Analysis
+- Statistics
+- Forest Management
+- Landscape Ecology
+
+## Contact
+email: jarandal@ualberta.ca
+linkedin: https://www.linkedin.com/in/jaredarandall/
